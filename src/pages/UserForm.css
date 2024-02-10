@@ -1,0 +1,43 @@
+.user-form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background: #1D1D1F;
+    padding: 80px 30px 0 30px;
+}
+
+p {
+    color: #898889;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.info {
+    color: #898889;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.76px;
+    width: 100%;
+    padding: 0 30px 0 30px;
+}
+
+.under-info {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.registerNow {
+    color: #fff;
+}
+
+.formBtn {
+    background: cornflowerblue;
+    width: 100%;
+    border-radius: 30px;
+}

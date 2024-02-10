@@ -1,0 +1,18 @@
+.data-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 2px solid #ffffff;
+    padding: 100px 200px;
+    min-width: 400px;
+    max-height: 260px;
+    align-items: center;
+}
+
+.data-text {
+    color: #FFFFFF;
+}
+
+span {
+    color: #000;
+}
